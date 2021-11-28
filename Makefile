@@ -28,4 +28,4 @@ no: ${SRCS}
 	norminette ${SRCS} libft/*.c
 
 git add: ${SRCS}
-	git add ${SRCS} libft
+	git add ${SRCS} libft ft_printf.h Makefile
