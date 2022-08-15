@@ -40,8 +40,8 @@ After running make, the libftprintf.a library with printf and Libft functions ca
 - No memory leaks
 - Implement ft_printf
 - Must have a Makefile to build the program
-- The library must be called libft.a
-- Must have a header file libft.h
+- The library must be called libftprintf.a
+- Must have a header file ft_printf.h
 
 ### Allowed Functions
 
